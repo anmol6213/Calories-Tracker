@@ -28,7 +28,7 @@ A mobile application that uses AI to analyze food images and calculate calories.
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/anmol6213/Calories-Tracker.git
 cd calories-tracker
 ```
 
