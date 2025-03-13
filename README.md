@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## App screenshots
 
-![Image description](IMG-20250313-WA0003.jpg)
+![Image description](expotest/IMG-20250313-WA0003.jpg)
