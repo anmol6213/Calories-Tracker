@@ -82,5 +82,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## App screenshots
 
-<img src="expotest/IMG-20250313-WA0003.jpg" width="180">   <img src="readme assets/2.png" width="180">   <img src="readme assets/3.png" width="180">   <img src="readme assets/4.png" width="180">
-<img src="readme assets/5.png" width="180">
+![Image description](IMG-20250313-WA0003.jpg)
