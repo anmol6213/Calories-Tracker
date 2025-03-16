@@ -1,7 +1,7 @@
 # Calories Tracker App
 
 A mobile application that uses AI to analyze food images and calculate calories.
-
+ 
 ## Features
 
 - **Food Image Analysis**: Take photos of food or select from gallery
